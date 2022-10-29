@@ -1,5 +1,6 @@
 # Site
-repository: frank217/frank217.github.io
+baseurl: "/docs"
+#repository: frank217/frank217.github.io
 # favicon: images/favicon.ico
 
 # Content configuration version
